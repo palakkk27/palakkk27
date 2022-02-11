@@ -7,15 +7,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently exploring **Open source projects while building on Web-Dev and Python.**
+- 🌐 I’m currently exploring **Open source projects while building on Web-Dev and Python.**
 
-- 🌱 I’m currently learning **Javascript & Backend Web-dev**
+- 📚 I’m currently learning **Javascript & Backend Web-dev**
 
-- 🤝 I’m looking for help with **JAVA**
+- 🧐 I’m looking for help with **JAVA**
 
 - 💬 Ask me about **Frontend Development & UI/UX Designing!**
 
-- ⚡ Fun fact **I love meeting new people ;)**
+- 🎢 Fun fact **I love meeting new people ;)**
 
 ## 🚀 Languages and Tools:
 
@@ -52,8 +52,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/palakkk27/github-readme-stats"><img alt="Palak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/palakk27/github-readme-stats"><img alt="Palak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true& bg_color=rgb(20, 19, 33)" /></a>
+    <a href="https://github.com/palakkk27/github-readme-stats"><img alt="Palak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="center"/></a>
+  <a href="https://github.com/palakk27/github-readme-stats" align="center"><img alt="Palak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true& bg_color=rgb(20, 19, 33)" align="center"/></a>
   <br/>
   <b>Note:</b> Top languages doesn't reflect experience or skill level , it's only a github metric of the languages I have the most code on github.
 
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/palakkk27/github-readme-activity-graph"><img alt="Palak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=palakkk27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/palakkk27/github-readme-activity-graph" align="center"><img alt="Palak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=palakkk27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
