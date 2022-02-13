@@ -45,15 +45,15 @@
 
 <p align="center">
     <a href="https://github.com/palakkk27/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Palak's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=palakkk27&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Palak's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=palakkk27&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/palakkk27/github-readme-stats"><img alt="Palak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="center"/></a>
-  <a href="https://github.com/palakk27/github-readme-stats" align="center"><img alt="Palak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true& bg_color=rgb(20, 19, 33)" align="center"/></a>
+    <a href="https://github.com/palakkk27/github-readme-stats"><img alt="Palak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" align="center"/></a>
+  <a href="https://github.com/palakk27/github-readme-stats" align="center"><img alt="Palak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true& bg_color=rgb(20, 19, 33)" align="center"/></a>
   <br/>
   <b>Note:</b> Top languages doesn't reflect experience or skill level , it's only a github metric of the languages I have the most code on github.
 
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/palakkk27/github-readme-activity-graph" align="center"><img alt="Palak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=palakkk27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/palakkk27/github-readme-activity-graph" align="center"><img alt="Palak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=palakkk27&bg_color=0D1117&color=9be9a8&line=3fb950&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
