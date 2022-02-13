@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <p align="center">
-<a href="#"><img width="75%" height="auto" src="https://cdn.dribbble.com/users/2131993/screenshots/7243594/media/7d8bb78bef8400054022b814ce3df9e3.png" height="175px"/></a>
+<a href="#"><img width="75%" height="auto" src="/img.png" height="175px"/></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Palak</h1>
 <h3 align="center">I'm a passionate Web Developer Developer from India.</h3>
