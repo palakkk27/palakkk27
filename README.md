@@ -1,5 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-
+<p align="center">
+<a href="#"><img width="75%" height="auto" src="https://cdn.dribbble.com/users/2131993/screenshots/7243594/media/7d8bb78bef8400054022b814ce3df9e3.png" height="175px"/></a>
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Palak</h1>
 <h3 align="center">I'm a passionate Web Developer Developer from India.</h3>
 
@@ -61,7 +63,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/palakkk27/github-readme-activity-graph" align="center"><img alt="Palak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=palakkk27&bg_color=0D1117&color=9be9a8&line=3fb950&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/palakkk27/github-readme-activity-graph" align="center"><img alt="Palak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=palakkk27&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
