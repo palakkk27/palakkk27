@@ -86,5 +86,5 @@
 
 
 ## Contribution Graph:
-![snake gif](https://github.com/palakkk27/palakkk27/blob/output/github-contribution-grid-snake.gif)  
+![snake gif](https://github.com/palakkk27/palakkk27/blob/output/github-contribution-grid-snake.svg)  
 
