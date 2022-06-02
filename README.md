@@ -1,6 +1,6 @@
 <div align='left'>
   <img align='right' src='/img.png' width="50%">
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Palak</h1>
+<h1 align="left">Hi!, I'm Palak</h1>
 <h3 align="left">I'm a passionate Web Developer from India.</h3>
 
 
