@@ -57,9 +57,10 @@
   <br/>
     <a href="https://github.com/palakkk27/github-readme-stats"><img alt="Palak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" align="center"/></a>
   
+ <br/> 
 <a>
-  <img alt="Palak Garg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-  <b>Note:</b> Top languages doesn't reflect experience or skill level , it's only a github metric of the languages I have the most code on github.
+  <img alt="Palak Garg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+  <br/><b>Note:</b> Top languages doesn't reflect experience or skill level , it's only a github metric of the languages I have the most code on github.
 
 
 <br/>
