@@ -32,8 +32,8 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
+  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> /
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
 <!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
@@ -56,8 +56,9 @@
 
   <br/>
     <a href="https://github.com/palakkk27/github-readme-stats"><img alt="Palak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" align="center"/></a>
-  <a href="https://github.com/palakk27/github-readme-stats" align="center"><img alt="Palak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true& bg_color=rgb(20, 19, 33)" align="center"/></a>
-  <br/>
+  
+<a>
+  <img alt="Palak Garg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   <b>Note:</b> Top languages doesn't reflect experience or skill level , it's only a github metric of the languages I have the most code on github.
 
 
