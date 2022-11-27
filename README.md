@@ -76,13 +76,13 @@
 
 <a href = "https://www.linkedin.com/in/palak-garg27/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/palakkgargg"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/palakkgarggg/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/palakkgargg/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/palakkk27/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=palakkk27">
 </a>
 <a href="https://github.com/palakkk27?tab=followers"><img src="https://img.shields.io/github/followers/palakkk27?label=Followers&style=social" alt="GitHub Badge"></a>
