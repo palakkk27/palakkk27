@@ -48,19 +48,18 @@
 
 <p align="center">
     <a href="https://github.com/palakkk27/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Palak's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=palakkk27&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Palak's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=palakkk27&theme=nightowl&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
+<a href="https://github.com/palakkk27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Palak's github stats" /></a> | <a href="https://github.com/palakkk27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&layout=compact&theme=nightowl&hide_border=true" /></a> |
+
+
+<br />
   <br/>
-    <a href="https://github.com/palakkk27/github-readme-stats"><img alt="Palak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" align="center"/></a>
-  
- <br/> 
-<a>
-  <img alt="Palak Garg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
-  <br/><b>Note:</b> Top languages doesn't reflect experience or skill level , it's only a github metric of the languages I have the most code on github.
+  <b>Note:</b> Top languages doesn't reflect experience or skill level , it's only a github metric of the languages I have the most code on github.
 
 
 <br/>
