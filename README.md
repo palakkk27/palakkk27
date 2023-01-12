@@ -7,13 +7,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌐 I’m currently exploring **Open source projects while building on Web-Dev and Python.**
+- 🌐 I’m currently exploring **Open source projects while building on Web-Dev and Java.**
 
-- 📚 I’m currently learning **Javascript & Backend Web-dev**
+- 📚 I’m currently learning **Javascript & DSA in JAVA**
 
-- 🧐 I’m looking for help with **JAVA**
+- 🧐 I’m looking for help with **MERN STACK**
 
-- 💬 Ask me about **Frontend Development & UI/UX Designing!**
+- 💬 Ask me about **Frontend Development !**
 
 - 🎢 Fun fact **I love meeting new people ;)**
 
