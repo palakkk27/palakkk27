@@ -54,7 +54,8 @@
 
 ## 📊 My Github Stats
 
-<a href="https://github.com/palakkk27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Palak's github stats" /></a> | <a href="https://github.com/palakkk27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&layout=compact&theme=nightowl&hide_border=true" /></a> |
+<a href="https://github.com/palakkk27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=palakkk27&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Palak's github stats" /></a>
+<a href="https://github.com/palakkk27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakkk27&layout=compact&theme=nightowl&hide_border=true" /></a> 
 
 
 <br />
@@ -76,9 +77,15 @@
 <a href = "https://www.linkedin.com/in/palak-garg27/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/palakkgargg"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/palakkgargg/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
+<a href = "https://leetcode.com/palakkgargg/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  </p>
+## ❤ LEETCODE
+<p align = "center">
+<a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="Palak's LeetCode Stats" alt="Palak's LeetCode Stats" src="https://leetcard.jacoblin.cool/palakkgargg?theme=dark&ext=heatmap" />
+  </a>
 </p>
+ 
 
 ## ❤ Views and Followers
 <a href="https://github.com/palakkk27/github-profile-views-counter">
