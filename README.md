@@ -1,9 +1,15 @@
+## <p align="center">Hello folks,</p>
+
+<img src="./assets/quotes.png" width = 1080px />
+</a>
+<br>
+
+> ## Myself Palak Garg. 
+> Pre Final year CS Undergrad!
+
+
 <div align='left'>
   <img align='right' src='/img.png' width="50%">
-<h1 align="left">Hi!, I'm Palak</h1>
-<h3 align="left">I'm a passionate Web Developer from India.</h3>
-
-
 
 ## 🙋‍♂️ About Me
 
