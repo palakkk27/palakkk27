@@ -8,9 +8,9 @@
 > Pre Final year CS Undergrad!
 
 
-<div align='left'>
+<!-- <div align='left'>
   <img align='right' src='/img.png' width="50%">
-
+ -->
 ## 🙋‍♂️ About Me
 
 - 🌐 I’m currently exploring **Open source projects while building on Web-Dev and Java.**
