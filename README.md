@@ -1,4 +1,4 @@
-## <p align="center">Heyyy Folksss , </p>
+## <p align="center">Heyyyloooooo Folksss , </p>
 
 <img src="./assets/quotes.png" width = 1080px />
 </a>
