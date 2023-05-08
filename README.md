@@ -13,9 +13,9 @@
  -->
 ## 🙋‍♂️ About Me
 
-- 🌐 I’m currently exploring **Open source projects while building on Web-Dev and Java.**
+- 🌐 I’m currently exploring **Projects which can help me for placements**
 
-- 📚 I’m currently learning **Javascript & DSA in JAVA**
+- 📚 I’m currently learning ** DSA in JAVA**
 
 - 🧐 I’m looking for help with **MERN STACK**
 
