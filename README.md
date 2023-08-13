@@ -11,7 +11,7 @@
 <!-- <div align='left'>
   <img align='right' src='/img.png' width="50%">
  -->
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Meeee
 
 - 🌐 I’m currently exploring **Projects which can help me for placements**
 
