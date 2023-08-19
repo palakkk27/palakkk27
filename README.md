@@ -4,7 +4,7 @@
 </a>
 <br>
 
-> ## Myself Palak Garg. 
+> ## I am Palak Garg. 
 > Pre Final year CS Undergrad!!!
 
 
